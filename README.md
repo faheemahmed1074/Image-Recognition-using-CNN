@@ -27,10 +27,10 @@ You can install the required packages using pip:
 
 ## Results
 
-- Base Model Test Accuracy: [Provide Test Accuracy]
-- Model_1 Test Accuracy (with Dropouts): [Provide Test Accuracy]
-- Model_2 Test Accuracy (with Additional Filters): [Provide Test Accuracy]
-- Model_3 Test Accuracy (with Batch Normalization): [Provide Test Accuracy]
+- Base Model Test Accuracy: 0.6566
+- Model_1 Test Accuracy (with Dropouts): 0.7127
+- Model_2 Test Accuracy (with Additional Filters): 0.7476
+- Model_3 Test Accuracy (with Batch Normalization): 0.8790
 
 ## Conclusion
 
